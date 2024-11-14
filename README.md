@@ -27,8 +27,7 @@ El programa consta de las siguientes funciones principales:
 
 4. **Resultados:**   El programa mostrará el top 10 de tests con más coincidencias en la consola, indicando el nombre del test y el número de coincidencias encontradas.
 
-...
-Ejemplo de ejecución.
+## Ejemplo de ejecución
 
 Ingrese los genes separados por comas (ej: AAA4, BBB3): AAA4, BBB3
 
@@ -36,10 +35,9 @@ Ranking de tests por coincidencias:
 test1: 3 coincidencia(s)
 test2: 2 coincidencia(s)
 test3: 1 coincidencia(s)
-...
 
 **Requisitos**
-Asegúrate de tener pandas y openpyxl instalados para que el programa pueda leer el archivo de Excel.
+Asegúrate de tener pandas y openpyxl instalados para que el programa pueda leer el archivo de Excel. (revisar instrucciones de uso)
 
 **Dependencias**
 Python 3 y descargar las librerías correspondientes:
